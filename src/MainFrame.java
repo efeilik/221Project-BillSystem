@@ -34,7 +34,14 @@ public class MainFrame extends JFrame {
 			}
 		});
 	}
+<<<<<<< Updated upstream
 	/*sdafasdfa*/
+=======
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 	/**
 	 * Create the frame.
